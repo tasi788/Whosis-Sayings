@@ -1,6 +1,6 @@
 function fetcher() {
-    return axios.get('./statics/hiraku.txt').then(response => {
-        return response.data.split(',').slice(0, -1)
+    return axios.get('./statics/saying.txt').then(response => {
+        return response.data.split(',,').slice(0, -1)
     })
 }
 
@@ -9,9 +9,15 @@ fetcher().then(data => {
     var vm = new Vue({
         el: "#exhibition",
         data: {
-            message: data[random_string]
+            name: data[random_string].split(',')[0],
+            id: '@' + data[random_string].split(',')[1],
+            message: data[random_string].split(',')[2],
         }
     });
-}).then(function () {
-    document.getElementById('message').style.opacity = 1;
+    var vm_icon = new Vue({
+        el: "#icon",
+        data: {
+            icon: "./statics/" + data[random_string].split(',')[1] + '.jpeg'
+        }
+    })
 })
