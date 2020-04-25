@@ -4,7 +4,9 @@
 <head>
     <meta charset="utf-8">
     <script type="text/javascript">
-        window.location.href = "https://" + window.location.hostname;
+        if(!window.location.href.includes('https://')) {
+            window.location.href = "https://" + window.location.hostname;
+        }
     </script>
     <title>┌(┌^o^)┐</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css"
