@@ -12,6 +12,4 @@ fetcher().then(data => {
             message: data[random_string]
         }
     });
-}).then(function () {
-    document.getElementById('message').style.opacity = 1;
 })

@@ -4,35 +4,40 @@
 <head>
     <meta charset="utf-8">
     <script type="text/javascript">
-        if(!window.location.href.includes('https://')) {
-            window.location.href = "https://" + window.location.hostname;
-        }
+    if (!window.location.href.includes('https://')) {
+        window.location.href = "https://" + window.location.hostname;
+    }
     </script>
     <title>┌(┌^o^)┐</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css"
-        integrity="sha256-D9M5yrVDqFlla7nlELDaYZIpXfFWDytQtiV+TaH6F1I=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css" integrity="sha256-D9M5yrVDqFlla7nlELDaYZIpXfFWDytQtiV+TaH6F1I=" crossorigin="anonymous" />
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"
-        integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"
-        integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
     <style>
-        .box {
-            margin-top: 10%;
-            /* width: 70%; */
-            margin-left: 20%;
-            margin-right: 20%;
-            font-size: 40px;
-        }
+    .box {
+        margin-top: 10%;
+        /* width: 70%; */
+        margin-left: 20%;
+        margin-right: 20%;
+        font-size: 40px;
+    }
 
-        .content small {
-            color: gray;
-        }
+    .content small {
+        color: gray;
+    }
 
-        html {
-            background-color: #18232c;
-        }
+    #icon > img {
+        border-radius: 50%;
+    }
+
+    [v-cloak] {
+        display: none;
+    }
+
+    html {
+        background-color: #18232c;
+    }
     </style>
 </head>
 
@@ -40,7 +45,7 @@
     <div class="box">
         <article class="media">
             <div class="media-left">
-                <figure class="image is-64x64">
+                <figure class="image is-64x64" id="icon">
                     <img src="./statics/hiraku.jpeg" alt="Image">
                     <span class="icon">
                         <i class="fas fa-home"></i>
@@ -52,7 +57,7 @@
                     <p>
                         <strong>Hiraku</strong> <small>@hirakujira</small> <small> · 1m</small>
                         <br>
-                        <span id="message" style="opacity: 0">{{ message }}<span>
+                        <span v-cloak>{{ message }}<span>
                         <!-- 好ㄉ小ㄉ知道ㄖ -->
                     </p>
                 </div>
