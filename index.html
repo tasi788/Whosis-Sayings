@@ -11,7 +11,7 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
     <script type="text/javascript">
       // HTTP => HTTPS
-      if (location.protocol !== 'https:') {
+      if (location.protocol !== 'https:' && location.hostname !== 'localhost') {
         location.protocol = 'https:'
       }
     </script>
