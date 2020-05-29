@@ -33,6 +33,10 @@
         color: gray;
       }
 
+      #icon > img {
+        border-radius: 50%;
+      }
+
     </style>
   </head>
 
@@ -41,17 +45,17 @@
       <div class="box">
         <article class="media">
           <div class="media-left">
-            <figure class="image is-64x64" id="icon">
+            <figure class="image is-64x64" id="icon" v-cloak>
               <img :src="avatar" alt="Image">
               <span class="icon"></span>
             </figure>
           </div>
           <div class="media-content">
-            <div class="content">
+            <div class="content" v-cloak>
               <p>
                 <strong>{{ name }}</strong> <small>@{{ uname }}</small> <small> · 1m</small>
                 <br>
-                <span v-cloak>{{ message }}</span>
+                <span>{{ message }}</span>
                 <!-- 好ㄉ小ㄉ知道ㄖ -->
               </p>
             </div>
