@@ -1,70 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-Hant">
 
-<head>
-    <meta charset="utf-8">
-    <script type="text/javascript">
-    if (!window.location.href.includes('https://')) {
-        window.location.href = "https://" + window.location.hostname;
-    }
-    </script>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <title>┌(┌^o^)┐</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css" integrity="sha256-D9M5yrVDqFlla7nlELDaYZIpXfFWDytQtiV+TaH6F1I=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.8.2/css/bulma.min.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Rubik&display=swap" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
+    <script type="text/javascript">
+      // HTTP => HTTPS
+      if (location.protocol !== 'https:') {
+        // location.protocol = 'https:'
+      }
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js" integrity="sha256-ngFW3UnAN0Tnm76mDuu7uUtYEcG3G5H1+zioJw3t+68=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" crossorigin="anonymous"></script>
-    <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
     <style>
-    .box {
-        margin-top: 10%;
-        /* width: 70%; */
-        margin-left: 20%;
-        margin-right: 20%;
-        font-size: 40px;
-    }
-
-    .content small {
-        color: gray;
-    }
-
-    #icon > img {
-        border-radius: 50%;
-    }
-
-    [v-cloak] {
-        display: none;
-    }
-
-    html {
+      html {
         background-color: #18232c;
-    }
-    </style>
-</head>
+      }
 
-<body>
-    <div class="box">
+      [v-cloak] {
+        display: none;
+      }
+
+      .box {
+        margin: 10% 20% auto 20%;
+        font-size: 40px;
+      }
+
+      .content small {
+        color: gray;
+      }
+
+    </style>
+  </head>
+
+  <body>
+    <div id="app" class="container">
+      <div class="box">
         <article class="media">
-            <div class="media-left">
-                <figure class="image is-64x64" id="icon">
-                    <img src="./statics/hiraku.jpeg" alt="Image">
-                    <span class="icon">
-                        <i class="fas fa-home"></i>
-                    </span>
-                </figure>
+          <div class="media-left">
+            <figure class="image is-64x64" id="icon">
+              <img src="public/hiraku.jpeg" alt="Image">
+              <span class="icon"></span>
+            </figure>
+          </div>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <strong>Hiraku</strong> <small>@hirakujira</small> <small> · 1m</small>
+                <br>
+                <span v-cloak>{{ message }}</span>
+                <!-- 好ㄉ小ㄉ知道ㄖ -->
+              </p>
             </div>
-            <div class="media-content">
-                <div class="content" id="exhibition">
-                    <p>
-                        <strong>Hiraku</strong> <small>@hirakujira</small> <small> · 1m</small>
-                        <br>
-                        <span v-cloak>{{ message }}<span>
-                        <!-- 好ㄉ小ㄉ知道ㄖ -->
-                    </p>
-                </div>
-            </div>
+          </div>
         </article>
+      </div>
     </div>
-    <script src="./statics/main.js"></script>
-</body>
+    <script src="public/main.js"></script>
+  </body>
 
 </html>
