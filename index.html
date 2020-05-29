@@ -41,16 +41,16 @@
 
   <body>
     <div id="app" class="container">
-      <div class="box">
+      <div class="box" v-cloak>
         <article class="media">
           <div class="media-left">
-            <figure class="image is-64x64" id="icon" v-cloak>
+            <figure class="image is-64x64" id="icon">
               <img :src="avatar" alt="Image">
               <span class="icon"></span>
             </figure>
           </div>
           <div class="media-content">
-            <div class="content" v-cloak>
+            <div class="content">
               <p>
                 <strong>{{ name }}</strong> <small>@{{ uname }}</small> <small> · 1m</small>
                 <br>
