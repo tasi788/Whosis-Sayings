@@ -21,3 +21,8 @@ Shawn_N,又我？;
 Shawn_N,我看你是不懂啊？;
 Shawn_N,嘻嘻;
 Shawn_N,卡翹;
+Shawn_N,我要先刷牙;
+Shawn_N,我要先洗澡;
+Shawn_N,隨著節奏;
+Shawn_N,我人真好;
+Shawn_N,你這看起來不是 Chrome;
