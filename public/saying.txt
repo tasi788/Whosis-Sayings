@@ -1,9 +1,9 @@
 hirakujira,我買的每一個垃圾 domain 都至少放個 index.html ┌(┌^o^)┐;
-hirakujira,因為我都找 Apple 麻煩所以 (´・ω・｀);
 hirakujira,就我笨啊;
 hirakujira,笑死，每個人都質疑你沒 SSL @Shawn_N;
 hirakujira,咬我啊;
 hirakujira,怕爆;
+hirakujira,嘻嘻;
 hirakujira,Ubuntu 20.04 刷爆了，耶 ( ✌️‘ω’)✌️;
 hirakujira,我不會 unix (´・ω・｀);
 hirakujira,我以為 kinta.ma 的網域本身就是彩蛋 (´・ω・｀);
@@ -20,6 +20,7 @@ Shawn_N,笑死;
 Shawn_N,又我？;
 Shawn_N,我看你是不懂啊？;
 Shawn_N,嘻嘻;
+Shawn_N,怕爆;
 Shawn_N,卡翹;
 Shawn_N,我要先刷牙;
 Shawn_N,我要先洗澡;
@@ -30,3 +31,4 @@ Shawn_N,珍重生命;
 Shawn_N,我叫一下 UE;
 Shawn_N,沒你的事;
 Shawn_N,他自己搞事 郭 P4;
+Shawn_N,好色ㄛ
