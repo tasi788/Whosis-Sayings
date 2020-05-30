@@ -20,3 +20,4 @@ Shawn_N,笑死;
 Shawn_N,又我？;
 Shawn_N,我看你是不懂啊？;
 Shawn_N,嘻嘻;
+Shawn_N,卡翹;
