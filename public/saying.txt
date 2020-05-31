@@ -31,4 +31,5 @@ Shawn_N,珍重生命;
 Shawn_N,我叫一下 UE;
 Shawn_N,沒你的事;
 Shawn_N,他自己搞事 郭 P4;
-Shawn_N,好色ㄛ
+Shawn_N,好色ㄛ;
+Shawn_N,可是好小;
