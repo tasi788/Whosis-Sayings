@@ -33,3 +33,5 @@ Shawn_N,沒你的事;
 Shawn_N,他自己搞事 郭 P4;
 Shawn_N,好色ㄛ;
 Shawn_N,可是好小;
+DK,你老婆真的棒;
+DK,沒錢？你還有卡稱啊;
