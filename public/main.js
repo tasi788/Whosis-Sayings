@@ -3,6 +3,7 @@
   const gravatar = {
     Samwumobile: { name: '魔王', avatar: 'bf73e08d8bc1db95b62f02d50f8a03e9' },
     DK: { name: 'DK', avatar: '34624582cd585ba65e5b5368c84cb1a2' }
+    DAST: { name: 'DAST', avator '38838821/0b929b672c0e6e8110c02e24dd0adbec'}
   }
   const file = await fetch('public/saying.txt')
   const text = await file.text()
