@@ -2,7 +2,7 @@
 (async () => {
   const gravatar = {
     Samwumobile: { name: '魔王', avatar: 'bf73e08d8bc1db95b62f02d50f8a03e9' },
-    dk: { name: '$DK', avatar: '34624582cd585ba65e5b5368c84cb1a2' },
+    dk: { name: 'DK', avatar: '34624582cd585ba65e5b5368c84cb1a2' },
     cloverdefa: {name: 'DAST', avatar: '9e202866b38b7255f282beb005576731'}
   }
   const file = await fetch('public/saying.txt')
