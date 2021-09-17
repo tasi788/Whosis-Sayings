@@ -2,8 +2,9 @@
 (async () => {
   const gravatar = {
     hirakujira: { name: 'DK', avatar: 'bf73e08d8bc1db95b62f02d50f8a03e9' },
-    Shawn_N: { name: 'DAST', avatar: '34624582cd585ba65e5b5368c84cb1a2' },
+    DAST: { name: 'DAST', avatar: '34624582cd585ba65e5b5368c84cb1a2' },
     bill85101: {name: '魔王', avatar: '9e202866b38b7255f282beb005576731'}
+    zeaph: {name: '賽瑞福', avatar: '9e202866b38b7255f282beb005576731'}
   }
   const file = await fetch('public/saying.txt')
   const text = await file.text()
