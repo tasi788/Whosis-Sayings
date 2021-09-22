@@ -32,3 +32,6 @@ Shawn_N,把眼睛蒙上後，不知為何，什麼都看不見了;
 Shawn_N,摘掉眼鏡後，就什麼也看不見了;
 Shawn_N,大部分的雞蛋料裡，都會使用雞蛋;
 Shawn_N,別問了，你老婆真的睡著了!;
+hirakujira,一射解千愁;
+hirakujira,一射以謝天下;
+hirakujira,一不射二不休;
