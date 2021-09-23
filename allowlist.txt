@@ -1,2 +1,5 @@
 @@||unifi.ui.com^
 @@||homepod.local^
+@@||gateway.icloud.com^
+@@||inappcheck.itunes.apple.com^
+@@||metrics.icloud.com^
