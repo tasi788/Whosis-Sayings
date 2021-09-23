@@ -1,5 +1,4 @@
-@@||unifi.com^
-@@||ubiquiti.com^
+@@||unifi.ui.com^
 @@||homepod.local^
 @@||mobile-collector.newrelic.com^
 @@||app-measurement.com^
