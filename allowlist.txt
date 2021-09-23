@@ -1,5 +1,5 @@
 @@||unifi.com^
 @@||ubiquiti.com^
-@@||homepod.local:59402^
-@@||mobile-collector.newrelic.com:443^
-@@||app-measurement.com:443^
+@@||homepod.local^
+@@||mobile-collector.newrelic.com^
+@@||app-measurement.com^
