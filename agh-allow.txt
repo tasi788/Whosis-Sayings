@@ -3,3 +3,4 @@
 @@||gateway.icloud.com^
 @@||inappcheck.itunes.apple.com^
 @@||e-hentai.org^
+@@||exhentai.org^
