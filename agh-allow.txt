@@ -4,3 +4,5 @@
 @@||inappcheck.itunes.apple.com^
 @@||e-hentai.org^
 @@||exhentai.org^
+@@||xp.apple.com^
+@@||su.itunes.apple.com^
