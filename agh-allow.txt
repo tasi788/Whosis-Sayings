@@ -6,3 +6,5 @@
 @@||exhentai.org^
 @@||xp.apple.com^
 @@||su.itunes.apple.com^
+@@||trace.svc.ui.com^
+@@||token.safebrowsing.apple^
