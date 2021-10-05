@@ -8,3 +8,5 @@
 @@||su.itunes.apple.com^
 @@||trace.svc.ui.com^
 @@||token.safebrowsing.apple^
+@@||inappcheck.itunes.apple.com^
+@@||play.itunes.apple.com^
