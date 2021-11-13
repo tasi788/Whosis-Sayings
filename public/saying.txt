@@ -35,4 +35,5 @@ Shawn_N,沒你的事;
 Shawn_N,他自己搞事 郭 P4;
 Shawn_N,好色ㄛ;
 Shawn_N,可是好小;
+Shawn_N,就再也沒有勃起了;
 bill85101,docker不就是vm嗎?;
