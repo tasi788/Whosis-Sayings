@@ -46,3 +46,4 @@ cloverdefa,MacBook Air M1入手了;
 cloverdefa,MacBook Air M1 真好用;
 cloverdefa,從Windows PowerShell改用PowerShell:7.2.4...還不錯用;
 cloverdefa,我終於衝了一台UXG-Pro;
+cloverdefa,UXG-Pro送到我家了...好興奮啊;
