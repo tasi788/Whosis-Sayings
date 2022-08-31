@@ -3,7 +3,8 @@
   const gravatar = {
     hirakujira: { name: 'Hiraku', avatar: 'bf73e08d8bc1db95b62f02d50f8a03e9' },
     Shawn_N: { name: '$踢低吸 八嘎 NONO 麻ㄙㄟ麻ㄙㄟ', avatar: '34624582cd585ba65e5b5368c84cb1a2' },
-    bill85101: {name: '森喵', avatar: '9e202866b38b7255f282beb005576731'}
+    bill85101: {name: '森喵', avatar: '9e202866b38b7255f282beb005576731'},
+    wei1769: {name: 'wei 力炸醬麵', avatar: 'fa81ec75c67bda4ad408059ed8b7cf50'}
   }
   const file = await fetch('public/saying.txt')
   const text = await file.text()
