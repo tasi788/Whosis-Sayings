@@ -58,4 +58,4 @@ bill85101,docker不就是vm嗎?;
 wei1769,花錢可以幹到你嗎;
 wei1769,ㄐㄐ sha256 之後就是我的私鑰;
 wei1769,皮樂我可以嫁給你嗎;
-wei1769,我跟你說分為兩個部分 infrastructure 跟 runtime ;
+wei1769,我跟你說分為兩個部分 infrastructure 跟 runtime;
