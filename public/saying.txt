@@ -40,3 +40,4 @@ cloverdefa,Unifi全部的AP從Wifi5升級wifi6........;
 cloverdefa,我家裡的智能家居設備越來越多了;
 cloverdefa,伺服器服務全體上線;
 cloverdefa,服務漸漸趨於穩定;
+cloverdefa,新入手了 Apple Magic Mouse2;
