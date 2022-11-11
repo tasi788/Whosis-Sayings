@@ -1,3 +1,4 @@
 # Whosis-Sayings
 
-新買的域名不知道放什麼的話可以參考看看ㄛ～
+拿來填充domain的東西
+混淆www以及domain
