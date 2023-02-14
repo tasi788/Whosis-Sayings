@@ -32,5 +32,3 @@ cloverdefa,Blog又重新架起來了;
 cloverdefa,網路又崩潰拉,Controller被我玩壞了;
 cloverdefa,瀏覽器又復活拉;
 cloverdefa,用了好久的雷蛇黑寡婦機械鍵盤終於要退休了;
-cloverdefa,github merge 衝突;
-cloverdefa,gh pr create;
