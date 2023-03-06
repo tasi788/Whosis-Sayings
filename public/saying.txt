@@ -38,3 +38,4 @@ hirakujira,賞牠們小魔姬的黃金聖水;
 cloverdefa,連假都在感冒中度過;
 cloverdefa,每天醒來的第一件事情就是想睡覺;
 cloverdefa,連續假期快結束了;
+cloverdefa,該死的KB5022913弄到我必須重灌Windows;
