@@ -36,4 +36,3 @@ cloverdefa,每天醒來的第一件事情就是想睡覺;
 cloverdefa,該死的KB5022913弄到我必須重灌Windows;
 cloverdefa,好想換一台記憶體更大的macbook;
 cloverdefa,commit開始用AI幫我打字輸入超爽;
-cloverdefa,TEST CodeGPT;
