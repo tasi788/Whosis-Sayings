@@ -38,3 +38,4 @@ cloverdefa,好想換一台記憶體更大的macbook;
 cloverdefa,commit開始用AI幫我打字輸入超爽;
 cloverdefa,API一個月18鎂;
 cloverdefa,codegpt讓我git使用進入了新世界;
+cloverdefa,存錢換設備;
