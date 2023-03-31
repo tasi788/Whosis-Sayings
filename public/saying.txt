@@ -39,3 +39,4 @@ cloverdefa,commit開始用AI幫我打字輸入超爽;
 cloverdefa,API一個月18鎂;
 cloverdefa,codegpt讓我git使用進入了新世界;
 cloverdefa,存錢換設備;
+cloverdefa,家裡的網段全部更換,從192.168變更為10.0...大工程;
