@@ -39,3 +39,4 @@ cloverdefa,commit開始用AI幫我打字輸入超爽;
 cloverdefa,API一個月18鎂;
 cloverdefa,codegpt讓我git使用進入了新世界;
 cloverdefa,存錢換設備..我想換L3的交換機;
+cloverdefa,VM換LXC空間節省非常多;
