@@ -1,0 +1,10 @@
+# Changelog
+
+## [0.1.9](https://github.com/cloverdefa/Whosis-Sayings/compare/0.1.8...v0.1.9) (2023-05-08)
+
+
+### Docs
+
+* add new saying to public file ([ea3d251](https://github.com/cloverdefa/Whosis-Sayings/commit/ea3d2517b2ca7ee0a818f6f650b3ffe9208a44a2))
+* remove inappropriate line from saying.txt ([6f20e5b](https://github.com/cloverdefa/Whosis-Sayings/commit/6f20e5bb1e8c15ddfa4f920f846cdceb72fe0721))
+* update Github Action deployment message in public/saying.txt ([2c442a8](https://github.com/cloverdefa/Whosis-Sayings/commit/2c442a8f2f1374a1e5c6bb304ffd4e232dc40154))
