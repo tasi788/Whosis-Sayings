@@ -41,5 +41,4 @@ cloverdefa,存錢換設備..我想換Unifi的L3的交換機了;
 cloverdefa,VM換LXC空間節省非常多;
 cloverdefa,終究還是再ChatGPT上面刷卡付費了;
 cloverdefa,passkey真方便;
-cloverdefa,Github Action自動部署release真方便;
 cloverdefa,Github Action 現在 commit 後可以自動 release 拉;
