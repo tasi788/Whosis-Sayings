@@ -17,7 +17,7 @@ on:
   status: {}
 
 jobs:
-  # 合并发布版本的 pr 到 master
+  # 合併發布版本的 pr 到 main
   auto-merge:
     runs-on: ubuntu-latest
     steps:
