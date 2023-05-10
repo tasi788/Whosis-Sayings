@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.10](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.9...v0.1.10) (2023-05-10)
+
+
+### Docs
+
+* update public saying with new line ([4efe2ec](https://github.com/cloverdefa/Whosis-Sayings/commit/4efe2ec1b8f0e13464af6e6d8bb42cd4f8801ac6))
+
 ## [0.1.9](https://github.com/cloverdefa/Whosis-Sayings/compare/0.1.8...v0.1.9) (2023-05-08)
 
 
