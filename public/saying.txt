@@ -42,3 +42,4 @@ cloverdefa,VM換LXC空間節省非常多;
 cloverdefa,終究還是再ChatGPT上面刷卡付費了;
 cloverdefa,passkey真方便;
 cloverdefa,Github Action 現在 commit 後可以自動 release 拉;
+cloverdefa,Github的release.yml真難搞;
