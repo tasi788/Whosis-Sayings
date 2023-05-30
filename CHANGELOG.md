@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.11](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.10...v0.1.11) (2023-05-30)
+
+
+### Docs
+
+* add new saying to public file ([9de2e4d](https://github.com/cloverdefa/Whosis-Sayings/commit/9de2e4de00185164653541449e353ed2e2d33395))
+* fix typo and update saying in public directory ([3aac63a](https://github.com/cloverdefa/Whosis-Sayings/commit/3aac63a8c04fa6bbae9c98210aed10d40b7d1db1))
+
 ## [0.1.10](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.9...v0.1.10) (2023-05-10)
 
 
