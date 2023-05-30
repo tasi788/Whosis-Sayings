@@ -43,3 +43,4 @@ cloverdefa,終究還是再ChatGPT上面刷卡付費了;
 cloverdefa,passkey真方便;
 cloverdefa,Github Action 現在 commit 後可以自動 release 拉;
 cloverdefa,Github的release.yml真難搞;
+cloverdefa,又要噴錢錢了....手機充電器不充電了;
