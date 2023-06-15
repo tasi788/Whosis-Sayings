@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.12](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.11...v0.1.12) (2023-06-15)
+
+
+### Docs
+
+* add new jokes to public saying file ([4ac6c96](https://github.com/cloverdefa/Whosis-Sayings/commit/4ac6c969f183786752426b1e6d6d2a22d77b1ecc))
+
 ## [0.1.11](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.10...v0.1.11) (2023-05-30)
 
 
