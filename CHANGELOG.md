@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.13](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.12...v0.1.13) (2023-06-15)
+
+
+### Docs
+
+* refine sayings in public file ([064b324](https://github.com/cloverdefa/Whosis-Sayings/commit/064b3240e8d7512daa79ae3edececa4af20b8dd9))
+
 ## [0.1.12](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.11...v0.1.12) (2023-06-15)
 
 
