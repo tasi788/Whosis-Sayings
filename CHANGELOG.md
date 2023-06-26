@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.13...v0.2.0) (2023-06-26)
+
+
+### Features
+
+* add new saying about L3 switches ([d284dc3](https://github.com/cloverdefa/Whosis-Sayings/commit/d284dc3bedd8e07fc43fd1078f393d28e7fcf38a))
+
 ## [0.1.13](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.1.12...v0.1.13) (2023-06-15)
 
 
