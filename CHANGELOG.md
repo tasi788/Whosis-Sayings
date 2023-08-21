@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.1...v0.2.2) (2023-08-21)
+
+
+### Docs
+
+* add a line to the end of the saying file ([019f370](https://github.com/cloverdefa/Whosis-Sayings/commit/019f3708c0ca18b5157a9a6710fba79b0efe7e7b))
+
 ## [0.2.1](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.0...v0.2.1) (2023-08-05)
 
 
