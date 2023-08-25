@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.2...v0.2.3) (2023-08-25)
+
+
+### chore
+
+* update release.yml to include "chore" in changelog-types ([9a1ae2d](https://github.com/cloverdefa/Whosis-Sayings/commit/9a1ae2d3f513a4b7462bbe73345ef23d3c0f800d))
+
 ## [0.2.2](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.1...v0.2.2) (2023-08-21)
 
 
