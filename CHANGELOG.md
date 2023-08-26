@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.6](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.5...v0.2.6) (2023-08-26)
+
+
+### Docs
+
+* update content in `public/saying.txt` ([e1deb42](https://github.com/cloverdefa/Whosis-Sayings/commit/e1deb4280d6e2790e9136b25e0f257333fccfdb0))
+* update file contents and improve readability ([fc7c6ab](https://github.com/cloverdefa/Whosis-Sayings/commit/fc7c6ab24e3727976db3990c8a0ae18007039449))
+
 ## [0.2.5](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.4...v0.2.5) (2023-08-26)
 
 
