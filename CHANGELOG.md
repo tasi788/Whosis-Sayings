@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.4](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.3...v0.2.4) (2023-08-26)
+
+
+### chore
+
+* update .gitignore rules ([2eeed96](https://github.com/cloverdefa/Whosis-Sayings/commit/2eeed96bf8c117a7270047873263b9393186e67e))
+
 ## [0.2.3](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.2...v0.2.3) (2023-08-25)
 
 
