@@ -1,1 +1,15 @@
+# 忽略檔案
+.wget-hsts
+.code-workspace
+.DS_Store
+.env
+.log
+.md
+
+# 忽略資料夾
+__pycache__/
+*/__pycache__/
 .vscode/
+
+# 不忽略 README.md 文件
+!README.md
