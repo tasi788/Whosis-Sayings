@@ -8,7 +8,6 @@
 
 # 忽略資料夾
 __pycache__/
-*/__pycache__/
 .vscode/
 
 # 不忽略 README.md 文件
