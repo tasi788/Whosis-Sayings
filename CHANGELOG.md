@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.7](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.6...v0.2.7) (2023-08-27)
+
+
+### chore
+
+* ignore unnecessary files and directories in git ([77130f3](https://github.com/cloverdefa/Whosis-Sayings/commit/77130f3b68a1989f7465c3b458b673c611ee666f))
+
 ## [0.2.6](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.5...v0.2.6) (2023-08-26)
 
 
