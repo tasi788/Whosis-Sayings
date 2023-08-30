@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.8](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.7...v0.2.8) (2023-08-30)
+
+
+### Code Refactoring
+
+* refactor code and documentation related to network switches ([b714e3f](https://github.com/cloverdefa/Whosis-Sayings/commit/b714e3f8906a6516970720cb4b16a5d866c98f78))
+
 ## [0.2.7](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.6...v0.2.7) (2023-08-27)
 
 
