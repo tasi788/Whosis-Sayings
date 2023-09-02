@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.9](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.8...v0.2.9) (2023-09-02)
+
+
+### chore
+
+* remove non-English line from saying.txt ([8375be2](https://github.com/cloverdefa/Whosis-Sayings/commit/8375be204792747f7c66537d1a5d8077a4f1687c))
+
 ## [0.2.8](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.7...v0.2.8) (2023-08-30)
 
 
