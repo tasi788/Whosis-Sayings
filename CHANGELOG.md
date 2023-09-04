@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.10](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.9...v0.2.10) (2023-09-04)
+
+
+### chore
+
+* update gitignore for project dependencies ([b2fe7ba](https://github.com/cloverdefa/Whosis-Sayings/commit/b2fe7bab82bd33da76f8558c5b7d21c8f4cf2e42))
+
 ## [0.2.9](https://github.com/cloverdefa/Whosis-Sayings/compare/v0.2.8...v0.2.9) (2023-09-02)
 
 
