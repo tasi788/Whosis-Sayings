@@ -1,7 +1,9 @@
 name: Telegram Notification Push
 
 on:
-  push
+  push:
+    branches:
+      - main
 
 jobs:
 
