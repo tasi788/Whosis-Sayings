@@ -11,12 +11,15 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: send message on push
-      uses: appleboy/telegram-action@master
-      with:
-        to: ${{ secrets.GROUPS_ID }}
-        token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: |
-          ${{ github.actor }} 提交內容: 
-          ${{ github.event.commits[0].message }}
-          存儲庫: ${{ github.repository }}
+      - name: send message on push
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.GROUPS_ID }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            ${{ github.actor }} 提交內容: 
+            提交內容: ${{ github.event.commits[0].message }}
+
+            存儲庫: ${{ github.repository }}
+
+            查看變更內容: https://github.com/${{ github.repository }}/commit/${{github.sha}}
