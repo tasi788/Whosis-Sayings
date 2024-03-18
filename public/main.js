@@ -5,7 +5,8 @@
     Shawn_N: { name: '$踢低吸 八嘎 NONO 麻ㄙㄟ麻ㄙㄟ', avatar: '34624582cd585ba65e5b5368c84cb1a2' },
     bill85101: {name: '森喵', avatar: '9e202866b38b7255f282beb005576731'},
     Nebulosa_cat :{name: '小母貓', avatar:'5c4356ac0f7149af60204fd13d1f3dd6'},
-    wei1769: {name: 'Wei 10500 俱樂部', avatar: 'fa81ec75c67bda4ad408059ed8b7cf50'}
+    wei1769: {name: 'Wei 10500 俱樂部', avatar: 'fa81ec75c67bda4ad408059ed8b7cf50'},
+    Haraguroicha: {name: '腹黒い茶', avatar: 'e12bdfd4cc9f62d7728a973dbb854344'}
   }
   const file = await fetch('public/saying.txt')
   const text = await file.text()
